@@ -24,7 +24,9 @@ public enum Language {
   SPANISH("es"), /** french. */
   FRENCH("fr"), /** italian. */
   ITALIAN("it"), /** portuguese. */
-  PORTUGUESE("pt");
+  PORTUGUESE("pt"), /** german. */
+  GERMAN("de");
+
 
   /** language. */
   String language;
